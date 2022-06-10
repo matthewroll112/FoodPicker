@@ -1,0 +1,1 @@
+Pizza,McDonalds,BK,Chinese,Hello Sushi,Mexican,Mediterranean,Indian,Wendys,KFC
